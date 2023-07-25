@@ -1,5 +1,7 @@
 # Quantum-Transformers-
-# TransforSparses
+
+
+# TransforSparses (not contain all the program ideas still, recommended to visit the code 
 
 Unfolding the Future of Natural Language Processing: Navigating the Transformative Power of Sparse Attention 🚀
 
